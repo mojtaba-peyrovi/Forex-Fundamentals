@@ -41,9 +41,11 @@ __Technical analysis__:
 - its based on chart analysis
 - based on Chart patterns (set-ups)
 
-__Fundamental analysis:
-    - based on new and data
-    - in this method we need to check monthly figures like non-farm payroll (NFP) for the US or on the weekly basis we need to check the unemployment numbers of USA.
+__Fundamental analysis:__
+
+ - based on news and data
+    
+ - in this method we need to check monthly figures like non-farm payroll (NFP) for the US or on the weekly basis we need to check the unemployment numbers of USA.
     these data can shoot the chart drastically up or down and we should stay away of trading during these days.
 ### Part 4: Data release for traders
 ---    
@@ -61,6 +63,7 @@ __Important Release Sources__:
  They release important news once a month.
  4) ##### _Federal Open Market Committee (FOMC)_:
  Their decision affect all economies in the world. They are based in USA and they meet 8 times a year.(Every 5-8 weeks).
+ 
  __Trading Guide__: We need to know leading individuals who lead each countries' Central bank. Research about them, learn about them and know when their speeches would release.Know the calendar of each speech and the importance of them.
  _IMPORTANT_: Give the market around 30 minutes to calm down after every news release so that it can get back to the normal state and don't make decision when all the market is excited.
  
@@ -78,8 +81,56 @@ We need some settings.
 * in order to change color scheme we can right click on the chart and go to Properties. 
 
  
+#### Some basic concepts:
+
+__EUR/USD:__ The first currency, is the 
+__Base currency__ and the second currency is the __Counterpart Currency.__
+
+When we look at the prices on the vertical axis on the right of each graph, we see for example 1.345564. What is the meaning of this?
+
+- It means in order to buy one unit of the base currency, we need to spend 1.345564 unit of the counterpart.
+##### What is BID?
+on the left side of the charts where the buy/sell panel is located, we see buy/sel buttons and some prices for each. They change color between blue and red all the time. __The buy price is called BID.__
+
+##### What is ASK?
+
+On the same panel, __the sell price is called ASK.__
+
+__SPREAD:__ when we have the difference between sell/buy, or ask/bid prices as 2 for example, we say __The spread in 2 pips wide.__ this 22 units is where brokers make money. 
+
+When we start the trade, for any direction, if the spread is 2, we will be in debt for 2 pips. if we trade $1 per pip, we will be 2 pips in debt. Whatever direction we move to, we need to accumulate 2 pips at least to break even.
+
+__High vs End of the session:__ when we have bar chart graph, as we see in the example (high-vs-end-session.jpg), the top point of each vertical line, is called high of the session, and the lowest point of the vertical line will be called the low of the session.
+
+__Open vs Close of the session:__ When we check the photo open-vs-close-session.jpg, we see the horizontal like on the left side of each vertical line, is called open and the horizontal line on the right is called the close of the session.
+
+When we have the close higher than open, the chart goes upwards, and vice versa.
+
+__Up-Trend Chart:__ When the overall direction of the chart is going up we call it Up-Trend chart. 
+
+__Down-Trend chart:__ Opposite of the sentence above.
+
+__Current Market Price:__ It is highlighted on the vertical axis of each graph.
+
+__Market Order:__ When we want to buy/sell at the current price of the market.
+
+__Buy Limit order(When the chart is downtrend):__ It anticipates the bounce from a downtrend back to the upwards direction.
+
+When we predict that the market price will be bouncing at a specific point, we put a __STOP LOSS__ line, wherever we guess the bouncing will happen, and then insert a stop loss line. If the graph hits the line, the stop loss will put me out of the market that means I won't lose more than that.
+
+If it bounces upwards, and not hitting the stop-loss, then we can have a __profit target__ which is another line we put anywhere we want, and the we have to execute it by making a new order.
+ (photo: buy-limit-downtrend.jpg)  
  
+ In order to execute it, we make a new order, and on the popup we have set the type to __Pending Order__ and set the price and make the order.
  
+ __Sell Limit Order(uptrend chart):__ when it goes up we will predict at a higher price, the graph will bounce downwards, so we put a line for it. we put another line for stop loss, and somewhere lower we set another line for profit target.
  
+ Again, we place the order, and set the stop loss, and the price at which we predict. we set the type to pending order, and place it. 
+ 
+__Buy Stop Order(uptrend charts):__ Another type of order is called buy stop. when we want to enter the market at a higher price, and continue up. we will put a stop loss line a bit lower than it and again place the order.
+ 
+(photo: buy-stop.jpg)
+
+__Sell Stop Order(downward charts):__ It is opposite of buy stop. 
 
 
