@@ -131,6 +131,55 @@ __Buy Stop Order(uptrend charts):__ Another type of order is called buy stop. wh
  
 (photo: buy-stop.jpg)
 
-__Sell Stop Order(downward charts):__ It is opposite of buy stop. 
+__Sell Stop Order(downward charts):__ It is opposite of buy stop.
+
+__Bullish Market:__ When the chart is uptrend obviously, we conclude that the traders who buy or go long, which are called __Bulls__, are dominating the market.
+(bullish-and-momentum.JPG)
+
+In the photo on the left side, the chart is bullish. As we can see, after connecting the tops of the previous trend, we see the long uptrend is taking the momentum, and here is where people can make good profit. There are techniques that we learn later and recognizes these momentum times.
+
+Also, when we have a clear downtrend, we call it __Bearish market__ because traders who are short, or selling (__Bears__) are dominating the market. The law of momentum is also true here as we can see in the photo mentioned below
+
+(bearish-and-momentum.JPG)
+
+__IMPORTANT:__ There are some situations where the market has a lot of little up and downs in a row, and doesn't make any drastic change and it's stuck. During this time period, most of traders avoid to have any action and they just stay away. The reason is, the market during these time periods is getting all the strength to breakout and build a new trend.
+
+(photo: when-to-aviod-trading.jpg)
+
+#### What are Support Line and Resistance Line?
+
+Support line is a horizontal line, that reverses the current downtrend back up in an upwards direction.
+(support-line.jpg)
+
+In order for a line to be qualified as a support line, it has to have two or more hits. 
+
+Resistance line is opposite of the support line and happens when the uptrend line, doesn't have strength to keep going up, and here is when the resistance line happens. (resistance-line.JPG)
+
+#### Change of Polarity Rule:
+
+When a support line becomes a resistance line, and vice versa. This is when the trend is going up (or down) and stops the following the trend for a while, but again goes the same direction as before. (change-of-polarity.jpg)
+
+#### Bullish Engulfing(covering):
+
+When the second candle is white and covers all height of the first candle which is a black candle. It always happens at the bottom of a downtrend. here is an example (bullish-engulfing.jpg)
+
+When this situation happens, we can decide the trend is turning back from down to up. 
+
+Important thing is, the if the body of the second candle covers the body of the first candle, that's good enough to call it bullish engulfing. The shadows or wicks don't have to be covered.
+
+__NOTE:__ DO NOT PLACE A BUY EVERY TIME A BULLISH ENGULFING HAPPENS.
+
+The reason, is that they happen a lot, and a lot more confirmations are needed for a trend to be recognized as a good time to enter the market.
+
+#### Bearish Engulfing (covering):
+
+When the second candle is black and covers all the body of the second candle which is white, it is called bearish engulfing. and it happens on the top of the uptrend right at the time when the trend moves downwards.
+
+Again anytime bearish engulfing happens, we shouldn't place an order because it needs more items to be checked before we decide to enter the market.
+
+
+    
+
+
 
 
