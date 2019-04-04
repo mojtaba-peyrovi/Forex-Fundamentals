@@ -177,9 +177,60 @@ When the second candle is black and covers all the body of the second candle whi
 
 Again anytime bearish engulfing happens, we shouldn't place an order because it needs more items to be checked before we decide to enter the market.
 
+#### Piercing pattern:
 
-    
+It always happen at the bottom of a downtrend. It returns the downtrend to the upwards direction. The second candle (white) has to open below the first (black candle) It also has to close more than halfway into black candles REAL body. (piercing-pattern.jpg)
+
+__NOTE:__ DO NOT PLACE A BUY EVERY TIME A BULLISH ENGULFING HAPPENS.
+
+The reason, is that they happen a lot, and a lot more confirmations are needed for a trend to be recognized as a good time to enter the market.
+
+ 
+#### Dark Cloud Pattern (opposite of piercing pattern):
+
+It happens on the top of uptrend graphs, and happens when the first candle is white and second is black. The second candle has to open above the first candle, and also close more than a halfway into the first candle's REAL body. (dark-cloud-pattern.jpg)
+
+For this also we don't enter the market anytime it happens.
 
 
+#### Morning Star Pattern:
+
+It comprises of THREE candles. The first one is a strong black, second one is a little candle that can be either black or white, and the third one, is a strong white. It always happens at the bottom of a downtrend. (morning-star-pattern.jpg) 
+
+The first one has to be always strong black, the second one, has to be little and opening and closing under the black one, the third one is always a strong white, that opens above the second candle. and finally it has to close more than halfway into the first candle.
+
+#### Evening Star Pattern:
+
+It is the opposite of morning star pattern. It always happens at the top of an uptrend. The first one is always a strong white candle. The second one is a small one that opens and closes at or above the first white candle's close. The third candle, is always a strong black that opens and closes at or below the second candle's close, and close more than halfway into the first candle. (evening-star-pattern.jpg)
+
+#### Doji Candle:
+
+It looks like a cross. The meaning of it, is the open and close are at the same level. It represents an equilibrium between buyers and sellers. It means, because the open and close are at the same level, the market doesn't know which way to go. (doji-candle.jpg)
+
+There are four types of doji candles that we see at doji-types.jpg
+
+#### Morning Doji Star Pattern:
+
+It is a three formation pattern. It comprises of three candles. the first on is a black candle, second one is a doji, and the third one is a white one. It always happens at the bottom od a downtrend pattern. The doji has to open and close below the black candle's close.  It is not required but preferred. The third one is a white that has to close above the first candle's close. The higher the white closes into the first black, the stronger the morning doji start pattern is. (morning-doji-star-pattern.jpg)
+
+For this again we say, don't pace a buy anytime you see this pattern. because it needs more confirmations.       
+
+#### Evening Doji Star Pattern:
+
+It is opposite of the morning doji star pattern. The first one is a white, second one is a doji candle who's color doesn't matter. It always appears at the top of an uptrend. The doji has to open and close at or above the first candle's close. It is not required but preferred. The third candle which is a black, has to close below the first candle's close. The lower it closes into the first candle's body, the stronger the pattern will be. (evening-doji-star-pattern.jpg)
+
+### ADX Indicator (Average Directional Index):
+
+Why do we use this?
+
+1) It shows if the market is trending. 
+2) It shows how strong the trend is.
+
+It has three lines:
+ - First line is called +DI line. It only measures uptrends.
+ - Second line is -dI line and measures the donwtrends.
+ - The third line is the summation of both others.
+ 
+ For the reason he didn't explain, we need to check out the value 25 for the ADX indicator, so we draw a horizontal line on 25. Anytime the third line which is tha main line crosses 25, it shows that a trend in the market is being built. Then we see if the higher the ADX third line goes, the stronger the trend will be.
 
 
