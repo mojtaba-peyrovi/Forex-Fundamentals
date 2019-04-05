@@ -233,4 +233,43 @@ It has three lines:
  
  For the reason he didn't explain, we need to check out the value 25 for the ADX indicator, so we draw a horizontal line on 25. Anytime the third line which is tha main line crosses 25, it shows that a trend in the market is being built. Then we see if the higher the ADX third line goes, the stronger the trend will be.
 
+#### Bollinger Bands:
+
+It has three lines. 
+
+1) __Simple Moving Average:__ It is the center line among the three lines. The distance between this line and the outer lines uses to calculate __Standard Deviations.__
+
+For Forex market we need to keep track of __Volatility (نوسان)__ and Billinger bands are crucial for measuring it. The higher the volatility, the more players are in the market. The less volatility, the less players exist.
+
+When the billinger bands squeeze in, it shows we have less players in the market. and shows that the trend is slowing down when we have less players.
+ 
+
+- When we want to decide based on bollinger bands, we can use RSI (Relative Strength Index) and see if there is any divergence. for example, the top of the trends that touch the bollinger bands, are going up, however the RSI goes down in the same period and it means that there is weakness in the market. 
+(bollinger-band-RSI-divergence.jpg)
+
+
+#### Commodity Channel Index (CCI)
+
+by default, it has +100 and -100 lines. For this indicator, what we need is the times the CCI graph goes above +100 or under -100. The reason is, when this happens we figure out that the prices are so much above or under the price range.
+
+We can use this to find out when a new trend is being built up. for this we need two more indicators.  one is the moving averages, and the second is the momentum indicator.
+
+#### How the moving average helps? 
+We add two moving averages for period of 10 and 20. When it's going up, we are looking for 10 period line, crosses over the 20 period line (the values are higher than) and when it is going down, we look for 10 going under 20 line (values are lower than).
+
+For more confirmation, we can take a look at Momentum. In momentum we can draw a line at 100, and above that, the market is in uptrend and below it the market is in downtrend. 
+
+Now to put all three together (CCI, Moving Average, and Momentum), we can input a vertical line where the 10-20 period average lines cross each other. 
+
+Now we check 3 things:
+
+```
+1) moving average 10 period, crosses moving average of 20 and it is above the 20 line.
+2) the momentum graph(reading) is above 100
+3) we look if there is an extreme point happened before the cross point in CCI graph.
+```
+
+If all the three conditions are true, there is a good time to buy because most probably, the trend is going up.
+
+
 
