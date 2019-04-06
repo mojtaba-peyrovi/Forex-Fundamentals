@@ -272,4 +272,24 @@ Now we check 3 things:
 If all the three conditions are true, there is a good time to buy because most probably, the trend is going up.
 
 
+#### Moving Averages:
 
+The calculation is the sum of closing price of N trading sessions, and dividing them to N. The 10 and 20 period we talked about above, was the N in the formula here. 
+
+There are two types of moving averages. 
+
+1) __Simple Moving Average:__ It gives the same weight for to all sessions when calculating the formula.
+
+2) __Exponential Moving Average:__ It gives more weight to the latest sessions. 
+
+When we have sudden changes in the market trend, the simple moving average won't be good enough to reflect what is going on.  
+
+#### Parabolic SAR:
+
+The idea, is when the Parabolic SAR indicator dots, come above the price graph, we are looking for sell, and if they place below the main graph, we will want to buy.
+
+But it is not enough to only use this indicator. we need to check more indicators for example Momentum indicator. because SAR doesn't really show if a trend is being built or not.
+
+#### MACD indicator: (Moving Average Convergence Divergence):
+
+It has a histogram for each session, and a moving average for the default value of 9 sessions for each period.
