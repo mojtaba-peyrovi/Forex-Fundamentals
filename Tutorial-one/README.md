@@ -293,3 +293,28 @@ But it is not enough to only use this indicator. we need to check more indicator
 #### MACD indicator: (Moving Average Convergence Divergence):
 
 It has a histogram for each session, and a moving average for the default value of 9 sessions for each period.
+
+
+#### ATR (Average True Range):
+
+The main purpose of ATR is to measure the volatility (نوسانจ).
+
+We need to have a horizontal line at 0.00060 and have the chart time for H1. It is recommended. can be any number. 
+
+__IMPORTANT:__ anytime we have the ATR going underneath the 0.00060 line and timing H1, it is about to be start a new trend (upwards or downwards.)
+
+In order to use this predictor we need to check three more things:
+```
+1- The prices (graph) should be above the 8 or 10 period average line.
+2- The cross over of 8 and 20, that 8 has to locate on the top of 20 for uptrend and lower for downtrend.
+3- We need to check if the same situation is true for 4 hours period.
+```
+If all the conditions above are true, we can do the trade.
+
+#### Momentun and its use:
+
+We always put a center line at 100. Then all we have to worry about, is to make sure, when momentum is under the center line, don't buy and when it is above the center line, don't sell.
+
+Another way of using momentum, is by looking for divergence between prices and the momentum indicator. Sometimes the direction of two lower points, go lower, but in momentum at the same time, the momentum increases. When such a thing happens, we place a trade at the same level as the peak between two points locates. (momentum-divergence.jpg)
+
+  
