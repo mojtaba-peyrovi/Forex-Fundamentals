@@ -317,4 +317,73 @@ We always put a center line at 100. Then all we have to worry about, is to make 
 
 Another way of using momentum, is by looking for divergence between prices and the momentum indicator. Sometimes the direction of two lower points, go lower, but in momentum at the same time, the momentum increases. When such a thing happens, we place a trade at the same level as the peak between two points locates. (momentum-divergence.jpg)
 
-  
+#### Relative Strength Index (RSI):
+
+The purpose if this indicator is to show if a trend is either overbought or oversold.
+
+When we run it, it has 4 lines by default. 0, 30, 70, 100. 
+
+__FIRST:__ When the RSI is getting higher than line of 70, we say the trend is overbought. 
+
+__SECOND:__ When the RSI is getting lower than the line 30, we say the dowwntrend is being oversold.
+
+The default period of the RSI is 14 and it works with D1 period. If we want to see lower periods, we need to re-adjust RSI period.
+
+__NOTE:__ Don't make the mistake of selling anytime the RSI gets over 70, and don't buy anytime the RSI gets lower than 30. 
+
+We also need to combine this strategy with other indicators and then make the decision.  
+
+- One of the good uses of RSI is to use divergence ( RSI-divergence.jpg), When the prices are going upwards, but the RSI at the same period going down, it's a good time to sell.
+
+- Also, we can draw the 50 line, and anytime we see RSI crosses the 50, and goes up, then crosses again back, so we can combine it with Monentum and decide.
+
+#### Relative Vigor Index (RVI):
+
+RVI period by default is set on 10, but when we want to combine it with other indicators, better to set it to 14 because on D1 we mostly use the other indicators with period of 14.
+
+The RVI has two lines, one green and one red. When the green line crosses under the red, we usually have a downtrend. and when we have red line crosses under the green, we have an uptrend.
+
+Again don't make the mistake of making sell anytime the green crosses under the red and don't always buy when the the red comes under green.
+
+A good helper for this, is inserting a moving average on 100 period.
+
+
+__INTERESTING:__ Anytime the main graph goes on the top of the moving average line, it means there is uptrand and anytime the graph goes under the moving average it means we have downtrend.
+
+When we have the graph lower than the average line, we look at highest prices, and draw a vertical line.
+```
+anytime the local maximum, and cross over in RVI were on the same vertical line we can sell.
+(AVR-selling-situation.jpg)
+
+```
+`An important condition for this, is all the highs must be going lower than the previous, and all lows have to be lower than the previous.
+`
+
+The situation for uptrend, is similar just opposite direction. (AVR-buying-situation.jpg)
+
+The other confirmation from AVR, is when we draw line of 0, anytime the AVR located above 0, we have uptrend and everytime it goes below zero we have downtrend.
+
+
+#### Stochastic Indicators:
+
+Again this is a good tool to recognize overbought/oversold trends. The default setting for it is (14,2,3)
+
+14 is the number of previous sessions (period)
+
+2 and 3 are the values for the two graph lines. (percentage-k, percentage-d)
+
+When stochastic graph is higher thn line of 80, it means the trend is overbought, and under 20, it will be considered oversold.
+
+For getting more confirmation on this indicator, we use 200 period of exponential moving average (EMA) as we used 100 for AVR.
+
+Sometimes we have pullbacks, it means the areas that the trend is going upwards in general (the graph is above 200 EMA), but temporarily the trend goes down for a short period. When it happens and at the same time we see oversold, we put a vertical line there. Then we check if the low at this line we make, is higher than the previous low when the oversold happened.
+
+we can take the trend on the second oversold happening. but we need to wait a bit until the stochastic starts to turn upwards and then put the trade.(stochastic-buy-situation.jpg)
+
+The selling situation is similar just opposite direction (stochastic-sell-situation.JPG)
+
+- Divergence: in this photo (stochastic-divergence.jpg) the three prices almost stay in the same level, while the stochastic is decreasing. it means we can sell according to the photo.
+
+
+
+    
