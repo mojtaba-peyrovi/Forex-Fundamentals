@@ -48,6 +48,7 @@ __Fundamental analysis:__
  - in this method we need to check monthly figures like non-farm payroll (NFP) for the US or on the weekly basis we need to check the unemployment numbers of USA.
     these data can shoot the chart drastically up or down and we should stay away of trading during these days.
 ### Part 4: Data release for traders
+
 ---    
 Data and news are important indicators for economy.They show the direction in which the economy is moving towards.
 Sometimes during the release of a specific news we see huge sparks in the upwards or downwards direction. We need to know if the news has already priced into the market? if yes, then we shouldnt invest a lot on it because the changes on our chart would be minor. But if it hasn't we can trade as normal because we may benefit from the spikes that mentioned earlier.
@@ -313,8 +314,11 @@ If all the conditions above are true, we can do the trade.
 
 #### Momentun and its use:
 
-We always put a center line at 100. Then all we have to worry about, is to make sure, when momentum is under the center line, don't buy and when it is above the center line, don't sell.
-
+We always put a center line at 100. Then all we have to worry about, is to make sure:
+```
+- when momentum is under the center line, don't BUY
+- when it is above the center line, don't SELL.
+```
 Another way of using momentum, is by looking for divergence between prices and the momentum indicator. Sometimes the direction of two lower points, go lower, but in momentum at the same time, the momentum increases. When such a thing happens, we place a trade at the same level as the peak between two points locates. (momentum-divergence.jpg)
 
 #### Relative Strength Index (RSI):
@@ -384,6 +388,42 @@ The selling situation is similar just opposite direction (stochastic-sell-situat
 
 - Divergence: in this photo (stochastic-divergence.jpg) the three prices almost stay in the same level, while the stochastic is decreasing. it means we can sell according to the photo.
 
+### How to pick a broker:
+
+- Don't pick the brokers whom their offices are located in countries in which Forex regulations are poorly established.
+- Ignore the ads about companies who claim they will make you a millionaire overnight.
+- If you want to focus on cheap trading __(Penny trading)__ try to look for a low spread broker. They are usually known as __Retail Brokers__ or __Market Makers.__ They usually offer spreads such as half a pip on EURUSD. 
+- The broker should allow instant execution. It means as soon as you place an order it has to be executed with the same price you want. There should be `zero` waiting time. Most of brokers suffer in this area. They have 2-10 seconds of delay.
+- Some brokers offer the leverage of 1:500 or even above. Naturally we should expect the leverage to be maximum 1:200. The reason is, any amount higher than this, would cause big losses.
+- The borker's platform should offer demo environment as well, because even professional traders use demo versions to analyse.
+- Some companies, have their policy for you to put your money easily but when it's time to get money out of the account, they make it harder. The process for putting/taking money to/from the account must be the same.
+- The broker has to reply back about any questions we have regarding the platform and their policies. If they are not responsive enough, find another broker.
 
 
-    
+
+
+#### Some definitions:
+
+- __BID:__ An exchange rate applied to a customer willing to `PURCHASE` a quote currency is called BID. This is the highest price that a currency will be bought.
+
+- __ASK:__ The exchange rate for `SELLING` a quote currency is called ask. It is the lowest price that a currency pair will be offered for sale.
+ 
+- __SPREAD:__ The differece between bid and ask is called Spread. It represents the brokerage service cost.
+
+- __PIP(Point In Percentage):__ It is the `FOURTH` digit of the exchange rate, and it values usually $0.0001 for USD related currency pairs. This helps investors from huge losses.
+
+pip is a number value. In the forex market, the value of a currency is given in pips. one pip equals 0.0001, two pips equal 0.0002, three pips equal 0.0003, and so on.
+
+`One pip is the smallest price change that an exchange rate can make.`
+- a five pip spread for EUR/USD is 1.2530/1.2535.    
+- __One Click Trading:__ The two sell/buy prices appear on the top/left side of the screen that allows us to easily put sell/buy with a click. 
+-  The sell/buy prices at __One Click Trading__ can be called this way as well:
+```
+SELL PRICE = BID
+BUY PRICE = ASK
+```
+
+Example: if the bid/ask price is 1.2015/1.3015, it represents a spread of 1000 pips. This spread usually is so high. The norm in the market is 1.205/1.2020 which is 5 pips.
+
+Usually smaller spreads are better for forex traders becuase a smaller movement in exchange rate,lets them profit from a trader more easily.
+
