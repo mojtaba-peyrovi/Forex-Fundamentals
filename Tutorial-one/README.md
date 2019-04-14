@@ -427,3 +427,19 @@ Example: if the bid/ask price is 1.2015/1.3015, it represents a spread of 1000 p
 
 Usually smaller spreads are better for forex traders becuase a smaller movement in exchange rate,lets them profit from a trader more easily.
 
+### Three Types of Forex brokers:
+
+1. __ECN Broker(Electronic Communications Network):__ The best type of brokers. They don't interfere the market, they don't spy the account and they don't try to fight back our good trades.
+
+
+2. __Market Maker:__ The brokers that make their own markets. They sometimes get naughty and try their best to have you lose money.
+
+
+3. __STP Broker(Straight Through Processing):__ It is a mixture of both items above.
+
+
+
+__IMPORTANT:__ It is so important to have a demo account. And anytime we learn a new strategy, we have to play with it at least for a month on demo account to make sure it works, before getting into the live account.
+
+
+
