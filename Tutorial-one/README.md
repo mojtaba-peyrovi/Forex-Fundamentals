@@ -441,5 +441,17 @@ Usually smaller spreads are better for forex traders becuase a smaller movement 
 
 __IMPORTANT:__ It is so important to have a demo account. And anytime we learn a new strategy, we have to play with it at least for a month on demo account to make sure it works, before getting into the live account.
 
+#### 2% Trading Rule in Money Management:
+
+When we have 10 pips on stop loss, we should make sure that 10 pips, is no more than 2% of total investment.
+
+In this way we consider 2% loss everyday for our investment.
+
+Imagine, we have 1000 USD in our trading account. 2% of it will be 50 USD. So, we are allowed to lose only 50 USD per day. It means that for 10 pips stop loss, the maximum investment for each pip would be 5 USD.
+
+#### Risk/Reward Ratio:
+
+Professional traders recommend a risk/reward ratio of __1:3.__ It means the distance between the price we enter the market, and the __stop loss__ line, is 3 times less than the distance between the entering price and profit line.
 
 
+In reality a good ris/reward ratio is __1:2.__ (risk-reward-ratio.jpg)
