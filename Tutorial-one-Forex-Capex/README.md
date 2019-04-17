@@ -455,3 +455,5 @@ Professional traders recommend a risk/reward ratio of __1:3.__ It means the dist
 
 
 In reality a good ris/reward ratio is __1:2.__ (risk-reward-ratio.jpg)
+
+ 
