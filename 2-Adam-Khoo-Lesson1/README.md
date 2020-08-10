@@ -24,7 +24,8 @@ Source : [adam Khoo Youtube Channel.](https://www.youtube.com/watch?v=GprwlQ-5OC
 
 10) Mastering the skills, you can easily generate 5000-20000 USD per month with an account of 100k USD. 
 
-Here (forex-timing-table-singapore-time-one-hour-ahead-of-bkk.jpg) is the table of working hours for forex market in different countries. (it is based on Singapore time, which is ONE hour ahead of Bangkok.)
+Here is the table of working hours for forex market in different countries. (it is based on Singapore time, which is ONE hour ahead of Bangkok.)
+<img src="forex-timing-table-singapore-time-one-hour-ahead-of-bkk.JPG">
 
 For example, 6AM-2PM is when Australian dollar is active (Singapore time). So, it will be 5AM-1PM Bangkok time.
 
@@ -70,13 +71,15 @@ THE VALUE OF EACH PIP IN A STANDARD LOT OF EUR/USD IS AROUND `10 USD`.
 
 Here is a [link](https://www.investing.com/tools/forex-pip-calculator) that shows the price of the pip based on currency pair, and lot size.
 
-Also here (pip-prices.jpg) is a screenshot of it just as an example. However, we need to get the prices daily. The link will show the updated prices.
+Also here is a screenshot of it just as an example. However, we need to get the prices daily. The link will show the updated prices.
+<img src="pip-prices.JPG">
 
 - We can conclude, almost every pip in most popular pairs, is 10 USD per lot that we buy.
 
 Check this example of profit calculation: (profit-calculation-example.jpg)
 
-Also this example: (another-profit-example.jpg)
+Also this example: 
+<img src="another-profit-example.JPG">
 
 Because the fluctuation of currencies are so small, we use leverage, to get a reasonable profit. For example in order to make 400 USD, in reality we need 100,000 EUR. but with leverage of 1:100, we can make this money using 1,000 EUR.
 
@@ -90,9 +93,10 @@ In Forex, we make money two ways:
 2) `buy LOW, sell HIGH`
 
 The former examples, were for the moment we made profit by the price going long. Now, we see making profit from going short:
-(make-profit-by-going-short.jpg)
+<img src="make-profit-by-going-short.JPG">
 
-And here is another explanation of it (another-profit-example(short).JPG)
+And here is another explanation of it:
+<img  src="another-profit-example(short).JPG">
 
 #### Types of Traders:
 
@@ -103,7 +107,8 @@ There are four types of traders:
 3) __Swing Traders:__ They trade within a week and look at charts H1, H4. Their target is 50-150 pip per trade.
 4) __Position Traders:__ They trade within months or even years. They target 500-1000 pips per trade and just look at D1, W1 charts. 
 
-Here is the chart of all the types: (four-trader-types.jpg)
+Here is the chart of all the types: 
+<img src="four-trader-types.JPG">
 
 
 #### What makes a profitable Forex trader?
@@ -125,13 +130,15 @@ Here is the chart of all the types: (four-trader-types.jpg)
 ```   
 - __Moving Averages:__ The most powerful tools to use. The moving averages are arranged in sequence. from the smallest to the biggest. He uses 6 EMA, 18 EMA, and 50 EMA, and 200 EMA. 
 
-When we have uptrend movement, there will be __Impulsive waves__ and __correcting waves.__ And for each correcting wave, there will be a tiny change (support) in EMA lines. as we see in the photo: (up-trend-support.jpg).
+When we have uptrend movement, there will be __Impulsive waves__ and __correcting waves.__ And for each correcting wave, there will be a tiny change (support) in EMA lines. as we see in the photo:
+<img src="up-trend-support.JPG">
 
 When the trend is going downtrend, the average lines will be in the sequence, but opposite sequence, which means the smallest average will be below, and the biggest average will be on the top.
 
-For downtrends, also we will see when impulsive and correcting waves happen, the average will get tiny changes (resistance). check this photo: downtrend-resistance.jpg
+For downtrends, also we will see when impulsive and correcting waves happen, the average will get tiny changes (resistance). <img src="downtrend-resistance.JPG">
 
-- __Fibonachi Levels:__ It says in uptrend, for an Impulsive wave, if the price goes up to a point with 100% move, there will be probably 61.8% level of correcting wave, before it gets back to uptrend. (uptrend-fibonachi.jpg)
+- __Fibonachi Levels:__ It says in uptrend, for an Impulsive wave, if the price goes up to a point with 100% move, there will be probably 61.8% level of correcting wave, before it gets back to uptrend.
+<img src="uptrend-fibonachi.JPG">
 
 #### We need to know when to trade:
 
@@ -147,19 +154,26 @@ There are days that he doesn't trade at all. Because there is no trend found. Ev
 
 #### When to get into the market and when not?
 
-__Choppy chart:__ when the chart looks like this: choppy-chart.jpg we don't do anything.
+__Choppy chart:__ when the chart looks like this below we don't do anything.
+<img src="choppy-chart.JPG">
 
 When the moving average lines are not clearly slopping up or down this happens. When we have moving averages crossing each other all the time, it means there is no specific trend and its not tradable.
 
 
-__Trending Bouncing Off 50 EMA:__ When the chart looks like this: boucing-off-50.jpg it shows there is a `strong trend going on`.
+__Trending Bouncing Off 50 EMA:__ When the chart looks like below it shows there is a `strong trend going on`.
+<img src="boucing-off-50.JPG">
 
-Also, when we have prices bounce a bit under 50 EMA (in uptrend), like this: bounce-off-50-prices-below.jpg, then we have to `have teh stop loss so much bigger than usual`. Better to use this strategy on H1 or H4.
+Also, when we have prices bounce a bit under 50 EMA (in uptrend), like below then we have to `have the stop loss so much bigger than usual`. Better to use this strategy on H1 or H4.
+<img src="bounce-off-50-prices-below.JPG">
 
 
 __Trending Bouncing Off 18 EMA:__  in this case we better use __TCE Strategy.__
 
-__Surfing EMA's:__ when the prices exactly aligns with one of the EMA's and goes up and down with it. (trend-surfing.jpg) In this case we use __Bull/Bear Flag Surfing strategy.__
+__Surfing EMA's:__ when the prices exactly aligns with one of the EMA's and goes up and down with it.  
+<img src="trend-surfing.JPG">
+
+
+In this case we use __Bull/Bear Flag Surfing strategy.__
 
 #### Important question: how many times of bouncing should happen until we say it is bouncing? 
 
@@ -167,15 +181,17 @@ __Answer:__ only once. after that we can expect it to bounce at the same level.
 
 #### Another sign for real uptrend: 
 
-Higher highs, and lower lows. (photo: higher-highs-lower-low.jps) 
+Higher highs, and lower lows. 
+<img src="higher-highs-lower-low.JPG">
 
 When we have bounce off 50, then see the higher highs and higher lows, then we do this:
 ```
 we make a sell limit : entey will be at the higher low, stop loss will be so much lower than we normally do, and target price will be as much as the higher high. 
 ```
-(bounce-off-50-sell-limit.jpg)
+<img src="bounce-off-50-sell-limit.JPG">
 
 we do it in M15. But he always looks at one timeframe higher. then he will check if the moving averages are still in sequence. Also, he checks in H1, if the stop loss line is under multiple EMA lines.
 
-- when we have bounce off 18 EMA, we place the buy limit according to this photo: (bounce-18-buy-limit.jpg)
+- when we have bounce off 18 EMA, we place the buy limit according to this photo: 
+<img src="bounce-18-buy-limit.JPG">
 

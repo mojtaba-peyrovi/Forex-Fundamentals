@@ -18,12 +18,14 @@ Never risk more than 1-3 percent of your money for any single trade. We start fr
 No. of Lots = (Net Liquidation x %risk per trade) / (Stop Loss Distance x $value per pip)
 ```
 **Reminder:** One lot means 100,000 of the base currency.  0.5 lots in EURUSD means 50,000 EUR
-photo: position-sizing-formula.jpg
+<img src="position-sizing-formula.JPG">
 
-In order to calculate $value per pip we can use online calculators like ([https://www.xm.com/forex-calculators/pip-value#forex-calculator](https://www.xm.com/forex-calculators/pip-value#forex-calculator) and we see it for the example above at pip-value-calculator.jpg
+In order to calculate $value per pip we can use online calculators like ([https://www.xm.com/forex-calculators/pip-value#forex-calculator](https://www.xm.com/forex-calculators/pip-value#forex-calculator) and we see it for the example above here:
+<img src="pip-value-calculator.JPG">
 
 - In most pairs with USD as denominator, the value per pip is around 10$. 
-Here is an example example1.jpg
+Here is an example 
+<img src="example1.JPG">
 
 The value we calculate in the example as EUR, will determine the leverage we are using, for example using 10,000 USD we buy 100,000 EUR, means our **Leverage** is around 10 times.
 
@@ -35,7 +37,7 @@ The value we calculate in the example as EUR, will determine the leverage we are
 #### Risk Management and Position Sizing:
 - He recommends to have 1.5R as take profit position and 1R for stop loss and he said 1.5R is usually very much more profitable than 2R or 3R. He says not to be greedy. 
 - He trades in M15 timeframe.
-photo: risk-management-and-position-sizing.jpg
+<img src="risk-management-and-position-sizing.JPG">
 
 > For most people, once they lose 20% of their capital, it will affect them emotionally! We should never trade emotionally.
 
@@ -74,7 +76,8 @@ expectancy = 55%(45) - 45%(30) =  24.75 - 13.5 = **11.25 USD**
 20 trades per month = 11.25 * 20 = 225 USD
 ROI = 225/1000 = **22.5%** yearly = 12 * 72% = **270%**
 
-sample calculation here: expectancy-rate-calculation.jpg
+sample calculation here: 
+<img src="expectancy-rate-calculation.JPG">
 
 The key point is, do not think about money because it is a very emotional thing. successful traders think about R multiples. 1R is a unit of risk in their minds. 
 When we lose, we lose 1R and when we win, we win 1.5R. then at the end of the year we calculate the money we made.
